@@ -11,3 +11,4 @@ INSERT INTO transacoes (descricao, valor, data_transacao) VALUES
 ('Pagamento de conta', -180.50, '2025-06-05 09:15:00'),
 ('Saque em caixa eletrônico', -300.00, '2025-06-07 16:45:00'),
 ('Investimento em poupança', -500.00, '2025-06-10 11:20:00');
+
